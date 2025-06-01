@@ -2,4 +2,4 @@
 
 live Project: https://amitpathak49.github.io/Hamburger-Project/
 
-hamburger-menu-project.netlify.app
+live: hamburger-menu-project.netlify.app
